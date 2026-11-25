@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hadi Rezaeikarjani
 
-<!--
-**rezaeikarjani/rezaeikarjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer and researcher working where **AI, embedded systems, FPGA, IoT and health technology** meet.
+MSc student in Biomedical Engineering (Internet of Medical Things) at the **University of Oulu**, with a previous MSc in Computer Engineering (computer systems architecture).
 
-Here are some ideas to get you started:
+### What I work on
+- **LLM agents with long-term memory:** a hardware-inspired memory architecture (short-term, long-term and historical layers) with deterministic, traceable retrieval. Started as my summer 2026 research internship at CMVS, University of Oulu, and continuing. Benchmarked against mem0, MemGPT and A-Mem on LoCoMo.
+- **Hardware for AI:** FPGA neural-network accelerator for malaria blood-cell classification in VHDL on an Intel Cyclone 10 LP (first-author IEEE IKT 2023 paper, [doi](https://doi.org/10.1109/IKT62039.2023.10433016)).
+- **Health signals and vision:** privacy-preserving rPPG (heart rate from face video), TinyML fall detection on a Raspberry Pi Pico W, multi-label medical image classification.
+- **IoT and cloud:** containerised health-monitoring pipelines (MQTT, Docker, Kubernetes on CSC Rahti), ESP8266 sensing nodes, edge/cloud simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected repositories
+| Repository | What it is |
+|---|---|
+| [interview-agent](https://github.com/rezaeikarjani/interview-agent) | Local RAG assistant: FastAPI, LangChain, Ollama, Chroma, with strict grounding |
+| [BioTrack](https://github.com/rezaeikarjani/BioTrack) | Android (Kotlin) patient-recovery app: Room database, weather API, animated splash |
+
+### Tools
+Python · PyTorch · TensorFlow · scikit-learn · OpenCV · LangChain · FastAPI · Ollama · VHDL · Verilog · Embedded C · Quartus · Vivado · Docker · Kubernetes · Linux · Git · MQTT · Raspberry Pi · ESP32
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/hadire) · Oulu, Finland · open to research, engineering, thesis-worker and doctoral roles
