@@ -18,7 +18,7 @@ MSc student in Biomedical Engineering (Internet of Medical Things) at the **Univ
 | [BioTrack](https://github.com/rezaeikarjani/BioTrack) | Android (Kotlin) patient-recovery app: Room database, weather API, animated splash |
 
 ### Tools
-Python · PyTorch · TensorFlow · scikit-learn · OpenCV · LangChain · FastAPI · Ollama · VHDL · Verilog · Embedded C · Quartus · Vivado · Docker · Kubernetes · Linux · Git · MQTT · Raspberry Pi · ESP32
+Python · PyTorch · TensorFlow · scikit-learn · OpenCV · LangChain · FastAPI · Ollama · VHDL · Embedded C · Quartus · Vivado · Docker · Kubernetes · Linux · Git · MQTT · Raspberry Pi · ESP32
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/hadire) · Oulu, Finland · open to research, engineering and doctoral roles
