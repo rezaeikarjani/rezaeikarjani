@@ -12,6 +12,7 @@ MSc student in Biomedical Engineering (Internet of Medical Things) at the **Univ
 ### Selected repositories
 | Repository | What it is |
 |---|---|
+| [privacy-preserving-rppg](https://github.com/rezaeikarjani/privacy-preserving-rppg) | Does facial de-identification keep the pulse signal? POS/CHROM rPPG, UBFC evaluation, identity-similarity tests, 43 tests |
 | [interview-agent](https://github.com/rezaeikarjani/interview-agent) | Local RAG assistant: FastAPI, LangChain, Ollama, Chroma, with strict grounding |
 | [BioTrack](https://github.com/rezaeikarjani/BioTrack) | Android (Kotlin) patient-recovery app: Room database, weather API, animated splash |
 
